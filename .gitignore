@@ -1,0 +1,17 @@
+# Ignorer les fichiers temporaires Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignorer les fichiers temporaires dans tous les sous-dossiers
+**/__pycache__/
+**/*.py[cod]
+**/*.pyo
+
+# Ignorer les checkpoints de notebooks Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Ignorer les dossiers de configuration VSCode
+.vscode/
+**/.vscode/
