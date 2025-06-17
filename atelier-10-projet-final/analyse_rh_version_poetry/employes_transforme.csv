@@ -1,0 +1,6 @@
+Nom,Age,Salaire,Anciennete,Departement,Salaire_normalise,Anciennete_doublee
+Alice,25,35000,2,Marketing,-1.1750311280773453,4
+Bob,30,42000,4,Tech,-0.6734934514589662,8
+Charlie,35,50000,5,Tech,-0.10030753532367583,10
+Diana,40,60000,10,RH,0.6161748598454372,20
+Eve,45,70000,15,Finance,1.3326572550145501,30

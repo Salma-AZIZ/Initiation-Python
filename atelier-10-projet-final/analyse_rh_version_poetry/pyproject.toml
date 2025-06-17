@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "analyse-employes"
+version = "0.1.0"
+description = "Analyse RH avec export CSV, Excel, PDF"
+authors = ["Votre Nom <email@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^1.3.0"
+matplotlib = "^3.4.0"
+seaborn = "^0.11.0"
+fpdf = "^1.7.2"
+openpyxl = "^3.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
